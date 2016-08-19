@@ -12,7 +12,7 @@
  *   Each rule is specified by an input pattern and a list of output
  *   patterns. A pattern is a sentence consisting of space-separated
  *   words and variables. Input pattern variables come in two forms:
- *   single variables and segment variables; single variables (which
+ *   single variables and segment variables; single variables (which 
  *   take the form ~x) match a single word, while segment variables
  *   (which take the form ~*x) can match a phrase. Output pattern
  *   variables are only single variables. The variable names contained
